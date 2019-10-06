@@ -1,3 +1,4 @@
+// 변수 이용해 처리하는 것이 좋음.
 int redLED = 11;
 int yellowLED = 12;
 int greenLED = 13;
